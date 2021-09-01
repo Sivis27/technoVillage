@@ -1,1 +1,1 @@
-export const URL = "Test village";
+export const URL = "Test villagem";
